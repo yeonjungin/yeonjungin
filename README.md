@@ -15,10 +15,9 @@
 </p>
   
 
-Cards-Github
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonjungin&theme=radical)](https://github.com/yeonjungin) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjungin&layout=compact&theme=radical)](https://github.com/yeonjungin)
 <p align="center">
+    Cards-Github
+---
     <a href="https://github.com/yeonjungin/">
         <img src="https://github-readme-stats.vercel.app/api?username=yeonjungin&theme=radical"/>
     </a>
