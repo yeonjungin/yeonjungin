@@ -4,6 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=JungIn%20Yeon%20🌱&fontSize=70&fontColor=2E2E2E&animation=fadeIn/">
 </p>
 
+<h2 align="center">💜Me💜</h2>
 <p align="center">
     <a href="https://eboong.tistory.com/">
         <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"/>
@@ -22,6 +23,8 @@
 <p align="center">
     <a href="https://github.com/yeonjungin/">
         <img src="https://github-readme-stats.vercel.app/api?username=yeonjungin&theme=radical"/>
+    </a>
+    <a href="https://github.com/yeonjungin/">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjungin&layout=compact&theme=radical"/>
     </a>
 </p>
