@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=JungIn%20Yeon%20🌱&fontSize=70&fontColor=1C1C1C&animation=scaleIn/">
 </p>
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=JungIn%20Yeon%20🌱&fontSize=70&fontColor=1C1C1C&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=JungIn%20Yeon%20🌱&fontSize=70&fontColor=1C1C1C&animation=fadeIn)
 
 <br>
 <h2 align="center">💜 Me 💜</h2>
