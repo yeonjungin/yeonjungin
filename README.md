@@ -1,8 +1,9 @@
 # JungInYeon
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=JungIn%20Yeon%20🌱&fontSize=70&fontColor=2E2E2E&animation=fadeIn)
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=JungIn%20Yeon%20🌱&fontSize=70&fontColor=2E2E2E&animation=fadeIn/">
 </p>
+
 <p align="center">
     <a href="https://eboong.tistory.com/">
         <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"/>
@@ -12,5 +13,22 @@
     </a>
     <a href="mailto:0206dus@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+    </a>
+</p>
+
+
+Cards-Github
+---
+<p align="center">
+    <a href="https://github.com/yeonjungin">
+        <img src="https://github-readme-stats.vercel.app/api?username=yeonjungin&theme=radical/">
+    </a>
+</p>
+
+Cards-Problem Solving
+---
+<p align="center">
+    <a href="https://solved.ac/dswjddls/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dswjddls/">
     </a>
 </p>
