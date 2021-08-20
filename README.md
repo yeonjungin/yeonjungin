@@ -5,7 +5,7 @@
 </p>
 
 <br>
-<h2 align="center">💜Me💜</h2>
+<h2 align="center">💜 Me 💜</h2>
 <p align="center">
     <a href="https://eboong.tistory.com/">
         <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"/>
@@ -20,11 +20,11 @@
 <br>  
  
 <br>
-<h2 align="center">🛠Tech Skil🛠</h2>
+<h2 align="center">🛠 Tech Skil 🛠</h2>
 <br>
 
 <br>
-<h2 align="center">📍Cards-Github📍</h2>
+<h2 align="center">📍 Cards-Github 📍</h2>
 <p align="center">
     <a href="https://github.com/yeonjungin/">
         <img src="https://github-readme-stats.vercel.app/api?username=yeonjungin&theme=radical"/>
@@ -37,7 +37,7 @@
 
 
 <br>
-<h2 align="center">📍Cards-Problem Solving📍</h2>
+<h2 align="center">📍 Cards-Problem Solving 📍</h2>
 <p align="center">
     <a href="https://solved.ac/dswjddls/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dswjddls"/>
