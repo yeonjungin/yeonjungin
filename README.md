@@ -24,9 +24,6 @@
         <img src="https://github-readme-stats.vercel.app/api?username=yeonjungin&theme=radical"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjungin&layout=compact&theme=radical"/>
     </a>
-    <a href="https://github.com/yeonjungin/">
-       
-    </a>
 </p>
 
 
