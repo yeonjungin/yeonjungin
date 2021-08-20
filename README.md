@@ -16,6 +16,8 @@
     </a>
 </p>
   
+  
+  
 <h2 align="center">Cards-Github</h2>
 <p align="center">
     <a href="https://github.com/yeonjungin/">
@@ -26,7 +28,9 @@
     </a>
 </p>
 
-<h2>Cards-Problem Solving</h2>
+
+
+<h2 align="center">Cards-Problem Solving</h2>
 <p align="center">
     <a href="https://solved.ac/dswjddls/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dswjddls"/>
