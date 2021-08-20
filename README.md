@@ -17,20 +17,9 @@
 
 Cards-Github
 ---
-<p align="center">
-    <a href="https://github.com/yeonjungin">
-        <img src="https://github-readme-stats.vercel.app/api?username=yeonjungin&theme=radical/">
-    </a>
-</p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonjungin&theme=radical)](https://github.com/yeonjungin) 
 
 Cards-Problem Solving
 ---
-<p align="center">
-    <a href="https://solved.ac/dswjddls/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dswjddls/">
-    </a>
-</p>
-<center>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dswjddls)](https://solved.ac/dswjddls/)
-</center>
+
