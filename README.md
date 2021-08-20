@@ -1,3 +1,5 @@
+
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=JungIn%20Yeon%20🌱&fontSize=70&fontColor=2E2E2E&animation=fadeIn/">
 </p>
@@ -14,7 +16,7 @@
     </a>
 </p>
   
-<h2>Cards-Github</h2>
+<h2 align="center">Cards-Github</h2>
 <p align="center">
     <a href="https://github.com/yeonjungin/">
         <img src="https://github-readme-stats.vercel.app/api?username=yeonjungin&theme=radical"/>
