@@ -17,10 +17,14 @@
         <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
 </p>
-  
-  
+<br>  
+ 
 <br>
-<h2 align="center">Cards-Github</h2>
+<h2 align="center">🛠Tech Skil🛠</h2>
+<br>
+
+<br>
+<h2 align="center">📍Cards-Github📍</h2>
 <p align="center">
     <a href="https://github.com/yeonjungin/">
         <img src="https://github-readme-stats.vercel.app/api?username=yeonjungin&theme=radical"/>
@@ -29,12 +33,14 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjungin&layout=compact&theme=radical"/>
     </a>
 </p>
+<br>
 
 
-
-<h2 align="center">Cards-Problem Solving</h2>
+<br>
+<h2 align="center">📍Cards-Problem Solving📍</h2>
 <p align="center">
     <a href="https://solved.ac/dswjddls/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dswjddls"/>
     </a>
 </p>
+<br>
