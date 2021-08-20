@@ -3,6 +3,8 @@
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=JungIn%20Yeon%20🌱&fontSize=70&fontColor=2E2E2E&animation=fadeIn/">
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=JungIn%20Yeon%20🌱&fontSize=70&fontColor=2E2E2E&animation=fadeIn)
+
 </p>
 
 <p align="center">
