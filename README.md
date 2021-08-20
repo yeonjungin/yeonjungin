@@ -24,7 +24,9 @@
     </a>
 </p>
 
-Cards-Problem Solving
----
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dswjddls)](https://solved.ac/dswjddls/)
-
+<h2>Cards-Problem Solving</h2>
+<p align="center">
+    <a href="https://solved.ac/dswjddls/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dswjddls"/>
+    </a>
+</p>
