@@ -1,7 +1,7 @@
 # JungInYeon
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=JungIn%20Yeon%20🌱&fontSize=70&fontColor=2E2E2E&animation=fadeIn)
 
-<p class="center>
+<p align="center>
 <a href="https://eboong.tistory.com/">
 <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github">
 </a>
