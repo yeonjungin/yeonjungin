@@ -17,7 +17,8 @@
 
 Cards-Github
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonjungin&theme=radical)](https://github.com/yeonjungin) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonjungin&theme=radical)](https://github.com/yeonjungin) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjungin&layout=compact)](https://github.com/yeonjungin)
+
 
 Cards-Problem Solving
 ---
