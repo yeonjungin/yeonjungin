@@ -79,7 +79,7 @@ Yongin University, Yongin-si, Gyeonggi-do, South Korea —  &nbsp; <em>Bachelor 
 |Certificate|Organization|Date|Note|
 |:---:|:---:|:---:|:---:|
 |Engineer Information Processing<br>(정보처리기사)|AUG 2021|한국산업인력공단|-------------------------------------|
-|TOEIC SPEAKING Level 6 (150)<br>(토익스피킹)|MAR 2021|한국산업인력공단|-------------------------------------|
+|TOEIC SPEAKING Level 6 (150)<br>(토익스피킹)|MAR 2021|한국TOEIC위원회|-------------------------------------|
 |Computer Specialist in Spreadsheet & Database Level-1<br>(컴퓨터활용능력 1급)|OCT 2020|대한상공회의소|-------------------------------------|
 
 <br>
