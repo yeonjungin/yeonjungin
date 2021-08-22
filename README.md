@@ -49,7 +49,6 @@ Yongin University, Yongin-si, Gyeonggi-do, South Korea —  &nbsp; <em>Bachelor 
 </p>
 <br>
 
-<h4 align="center"><b>Toy Project</b></h4>
 <p align="center">        
 - Virtual Currency bid and ask program in python, 2021
 <br>
@@ -57,21 +56,36 @@ Yongin University, Yongin-si, Gyeonggi-do, South Korea —  &nbsp; <em>Bachelor 
 </p>
 
 <br>
-<h3 align="center">🏅 Awards</h3>
+<h3 align="center">🏅 Awards 🏅</h3>
+<p align="center"></p>
 <br>
 
 <br>
+    
+<h3 align="center"> 📖 Certificate 📖</h3>
+
+|Certificate|Organization|Date|
+|:---:|:---:|:---:|
+|Engineer Information Processing<br>(정보처리기사)|AUG 2021|한국산업인력공단|
+|TOEIC SPEAKING Level 6 (150)<br>(토익스피킹)|MAR 2021|한국산업인력공단|
+|Computer Specialist in Spreadsheet & Database Level-1<br>(컴퓨터활용능력 1급)|OCT 2020|대한상공회의소|
+
+<br>
+
 <h3 align="center">🌏 Activity 🌏</h3>
+
 |Activity|Organization|Date|Note|
-|---|---|---|---|
-|Jeju Coding BaseCamp Supporters|Jeju Coding BaseCamp|JUL 2021 - SEP 2021||
-|Inflearn student supporters|INFLEARN|MAR 2021 - APR 2021||
-|Student Reporter|Incheon Scholarship Foundation|JUL 2019 - DEC 2019||
-|Studying Abroad|Incheon Scholarship Foundation|JUL 2019 - AUG 2019|EAST CHINA NORMAL UNIVERSITY, Shanghai, China|
-|HANIUM ICT Mentoring|HANIUM|MAR 2018 - NOV 2018||
+|:---:|:---:|:---:|:---:|
+|Jeju Coding BaseCamp Supporters<br>(제주코딩베이스캠프 서포터즈)|Jeju Coding BaseCamp|JUL 2021 - SEP 2021||
+|Goodjob Supporters<br>(굿잡서포터즈 3기)|Yongin Univ|MAR 2021 - AUG 2021||
+|Samsung SDS Algorithm Class<br>(삼성SDS 알고리즘 특강 수료)|Samsung SDS|JUL 2021-AUG 2021||
+|Inflearn student supporters<br>(인프런 대학생 서포터즈)|INFLEARN|MAR 2021 - APR 2021||
+|Global Buddy Student<br>(글로벌버디 장학생)|Yongin Univ|AUG 2021-DEC 2021||
+|Student Reporter<br>(장학생 기자단)|Incheon Scholarship Foundation|JUL 2019 - DEC 2019||
+|Studying Abroad (해외연수)|Incheon Scholarship Foundation|JUL 2019 - AUG 2019|EAST CHINA NORMAL UNIVERSITY, Shanghai, China|
+|HANIUM ICT Mentoring<br>(한이음 멘토링)|HANIUM|MAR 2018 - NOV 2018||
+
 <br>
-
-
 
 <br>
 <h2 align="center">📍 Cards-Github 📍</h2>
