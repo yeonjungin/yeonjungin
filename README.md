@@ -61,13 +61,13 @@ Yongin University, Yongin-si, Gyeonggi-do, South Korea —  &nbsp; <em>Bachelor 
 
 |Awards|Organization|Date|Note|
 |:---:|:---:|:---:|:---:|
-|Academic Scholarship Awarded|Yongin Univ|the first semester of 2021|-------------------------------------|
-|Scholarship Awarded|S&T Scholarship Foundation|the second semester of 2020|-------------------------------------|
-|Scholarship Awarded|S&T Scholarship Foundation|the first semester of 2020|-------------------------------------|
-|Academic Scholarship Awarded|Yongin Univ|the first semester of 2020|-------------------------------------|
-|Academic Scholarship Awarded|Yongin Univ|the second semester of 2019|-------------------------------------|
-|Academic Scholarship Awarded|Yongin Univ|the first semester of 2019|-------------------------------------|
-|Academic Scholarship Awarded|Yongin Univ|the second semester of 2018|-------------------------------------|
+|Academic Scholarship Awarded|Yongin Univ|the first semester of 2021|------------------------------------|
+|Scholarship Awarded|S&T Scholarship Foundation|the second semester of 2020|------------------------------------|
+|Scholarship Awarded|S&T Scholarship Foundation|the first semester of 2020|------------------------------------|
+|Academic Scholarship Awarded|Yongin Univ|the first semester of 2020|------------------------------------|
+|Academic Scholarship Awarded|Yongin Univ|the second semester of 2019|------------------------------------|
+|Academic Scholarship Awarded|Yongin Univ|the first semester of 2019|------------------------------------|
+|Academic Scholarship Awarded|Yongin Univ|the second semester of 2018|------------------------------------|
 
 <br>
 
