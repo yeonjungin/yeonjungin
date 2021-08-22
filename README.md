@@ -58,11 +58,21 @@ Yongin University, Yongin-si, Gyeonggi-do, South Korea —  &nbsp; <em>Bachelor 
 
 <br>
 <h3 align="center">🏅 Awards</h3>
-<p align="center">
-    
-</p>
+<br>
 
 <br>
+<h3 align="center">🌏 Activity 🌏</h3>
+|Activity|Organization|Date|Note|
+|---|---|---|---|
+|Jeju Coding BaseCamp Supporters|Jeju Coding BaseCamp|JUL 2021 - SEP 2021||
+|Inflearn student supporters|INFLEARN|MAR 2021 - APR 2021||
+|Student Reporter|Incheon Scholarship Foundation|JUL 2019 - DEC 2019||
+|Studying Abroad|Incheon Scholarship Foundation|JUL 2019 - AUG 2019|EAST CHINA NORMAL UNIVERSITY, Shanghai, China|
+|HANIUM ICT Mentoring|HANIUM|MAR 2018 - NOV 2018||
+<br>
+
+
+
 <br>
 <h2 align="center">📍 Cards-Github 📍</h2>
 <p align="center">
