@@ -61,13 +61,13 @@ Yongin University, Yongin-si, Gyeonggi-do, South Korea —  &nbsp; <em>Bachelor 
 
 |Awards|Organization|Date|Note|
 |:---:|:---:|:---:|:---:|
-|Academic Scholarship Awarded|Yongin Univ|the first semester of 2021|-----------------------------------------|
-|Scholarship Awarded|S&T Scholarship Foundation|the second semester of 2020|-----------------------------------------|
-|Scholarship Awarded|S&T Scholarship Foundation|the first semester of 2020|-----------------------------------------|
-|Academic Scholarship Awarded|Yongin Univ|the first semester of 2020|-----------------------------------------|
-|Academic Scholarship Awarded|Yongin Univ|the second semester of 2019|-----------------------------------------|
-|Academic Scholarship Awarded|Yongin Univ|the first semester of 2019|-----------------------------------------|
-|Academic Scholarship Awarded|Yongin Univ|the second semester of 2018|-----------------------------------------|
+|Academic Scholarship Awarded|Yongin Univ|the first semester of 2021|--------------------------------------|
+|Scholarship Awarded|S&T Scholarship Foundation|the second semester of 2020|--------------------------------------|
+|Scholarship Awarded|S&T Scholarship Foundation|the first semester of 2020|--------------------------------------|
+|Academic Scholarship Awarded|Yongin Univ|the first semester of 2020|--------------------------------------|
+|Academic Scholarship Awarded|Yongin Univ|the second semester of 2019|--------------------------------------|
+|Academic Scholarship Awarded|Yongin Univ|the first semester of 2019|--------------------------------------|
+|Academic Scholarship Awarded|Yongin Univ|the second semester of 2018|--------------------------------------|
 
 <br>
 
@@ -77,9 +77,9 @@ Yongin University, Yongin-si, Gyeonggi-do, South Korea —  &nbsp; <em>Bachelor 
 
 |Certificate|Organization|Date|Note|
 |:---:|:---:|:---:|:---:|
-|Engineer Information Processing<br>(정보처리기사)|AUG 2021|한국산업인력공단|--------------------------------------|
-|TOEIC SPEAKING Level 6 (150)<br>(토익스피킹)|MAR 2021|한국산업인력공단|--------------------------------------|
-|Computer Specialist in Spreadsheet & Database Level-1<br>(컴퓨터활용능력 1급)|OCT 2020|대한상공회의소|--------------------------------------|
+|Engineer Information Processing<br>(정보처리기사)|AUG 2021|한국산업인력공단|-------------------------------------|
+|TOEIC SPEAKING Level 6 (150)<br>(토익스피킹)|MAR 2021|한국산업인력공단|-------------------------------------|
+|Computer Specialist in Spreadsheet & Database Level-1<br>(컴퓨터활용능력 1급)|OCT 2020|대한상공회의소|-------------------------------------|
 
 <br>
 
