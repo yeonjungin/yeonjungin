@@ -33,6 +33,37 @@
 <br>
 
 <br>
+<h2 align="center">🎓 Education 🎓</h2>
+<p align="center">
+Yongin University, Yongin-si, Gyeonggi-do, South Korea —  &nbsp; <em>Bachelor of Computer Science &nbsp;   MAR  2018 - FEB  2022</em>
+</p>   
+
+<br>
+<h2 align="center">🙆‍♀️ Other Experience 🙆‍♀️</h2>
+<h3 align="center"> 📝Project </h3>
+<h4 align="center"><b>School Project</b></h4>
+<p align="center">
+- ERP Program in C#, 2020
+<br>
+- Shopping Website in HTML, CSS, JS, 2019
+</p>
+<br>
+
+<h4 align="center"><b>Toy Project</b></h4>
+<p align="center">        
+- Virtual Currency bid and ask program in python, 2021
+<br>
+- Making Thumbnail image program in python, 2020
+</p>
+
+<br>
+<h3 align="center">🏅 Awards</h3>
+<p align="center">
+    
+</p>
+
+<br>
+<br>
 <h2 align="center">📍 Cards-Github 📍</h2>
 <p align="center">
     <a href="https://github.com/yeonjungin/">
