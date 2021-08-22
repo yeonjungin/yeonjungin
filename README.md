@@ -57,18 +57,28 @@ Yongin University, Yongin-si, Gyeonggi-do, South Korea —  &nbsp; <em>Bachelor 
 
 <br>
 <h3 align="center">🏅 Awards 🏅</h3>
-<p align="center"></p>
+
+|Awards|Organization|Date|Note|
+|:---:|:---:|:---:|:---:|
+|Academic Scholarship Awarded|Yongin Univ|the first semester of 2021|----------------------------------|
+|Scholarship Awarded|S&T Scholarship Foundation|the second semester of 2020|----------------------------------|
+|Scholarship Awarded|S&T Scholarship Foundation|the first semester of 2020|----------------------------------|
+|Academic Scholarship Awarded|Yongin Univ|the first semester of 2020|----------------------------------|
+|Academic Scholarship Awarded|Yongin Univ|the second semester of 2019|----------------------------------|
+|Academic Scholarship Awarded|Yongin Univ|the first semester of 2019|----------------------------------|
+|Academic Scholarship Awarded|Yongin Univ|the second semester of 2018|----------------------------------|
+
 <br>
 
 <br>
     
 <h3 align="center"> 📖 Certificate 📖</h3>
 
-|Certificate|Organization|Date|
-|:---:|:---:|:---:|
-|Engineer Information Processing<br>(정보처리기사)|AUG 2021|한국산업인력공단|
-|TOEIC SPEAKING Level 6 (150)<br>(토익스피킹)|MAR 2021|한국산업인력공단|
-|Computer Specialist in Spreadsheet & Database Level-1<br>(컴퓨터활용능력 1급)|OCT 2020|대한상공회의소|
+|Certificate|Organization|Date|Note|
+|:---:|:---:|:---:|:---:|
+|Engineer Information Processing<br>(정보처리기사)|AUG 2021|한국산업인력공단|--------------------------------------|
+|TOEIC SPEAKING Level 6 (150)<br>(토익스피킹)|MAR 2021|한국산업인력공단|--------------------------------------|
+|Computer Specialist in Spreadsheet & Database Level-1<br>(컴퓨터활용능력 1급)|OCT 2020|대한상공회의소|--------------------------------------|
 
 <br>
 
@@ -82,7 +92,7 @@ Yongin University, Yongin-si, Gyeonggi-do, South Korea —  &nbsp; <em>Bachelor 
 |Inflearn student supporters<br>(인프런 대학생 서포터즈)|INFLEARN|MAR 2021 - APR 2021||
 |Global Buddy Student<br>(글로벌버디 장학생)|Yongin Univ|AUG 2021-DEC 2021||
 |Student Reporter<br>(장학생 기자단)|Incheon Scholarship Foundation|JUL 2019 - DEC 2019||
-|Studying Abroad (해외연수)|Incheon Scholarship Foundation|JUL 2019 - AUG 2019|EAST CHINA NORMAL UNIVERSITY, Shanghai, China|
+|Studying Abroad (해외연수)|Incheon Scholarship Foundation|JUL 2019 - AUG 2019|<em>EAST CHINA NORMAL UNIVERSITY, Shanghai, China</em>|
 |HANIUM ICT Mentoring<br>(한이음 멘토링)|HANIUM|MAR 2018 - NOV 2018||
 
 <br>
