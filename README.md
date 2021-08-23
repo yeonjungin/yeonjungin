@@ -70,7 +70,8 @@ Yongin University, Yongin-si, Gyeonggi-do, South Korea —  &nbsp; <em>Bachelor 
 |Academic Scholarship Awarded|Yongin Univ|the first semester of 2019|---------------------------------|
 |Academic Scholarship Awarded|Yongin Univ|the second semester of 2018|---------------------------------|
 
-    
+<br>
+<br>    
 <h3 align="center"> 📖 Certificate 📖</h3>
 
 |Certificate|Organization|Date|Note|
@@ -81,6 +82,7 @@ Yongin University, Yongin-si, Gyeonggi-do, South Korea —  &nbsp; <em>Bachelor 
 
 <br>
 
+<br>
 <h3 align="center">🌏 Activity 🌏</h3>
 
 |Activity|Organization|Date|Note|
