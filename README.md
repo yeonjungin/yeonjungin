@@ -100,6 +100,13 @@ Yongin University, Yongin-si, Gyeonggi-do, South Korea —  &nbsp; <em>Bachelor 
 <br>
 
 <br>
+<p align="center">
+
+</p>
+<br>
+
+
+<br>
 <h2 align="center">📍 Cards-Github 📍</h2>
 <p align="center">
     <a href="https://github.com/yeonjungin/">
