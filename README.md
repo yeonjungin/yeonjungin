@@ -124,7 +124,7 @@ Yongin University, Yongin-si, Gyeonggi-do, South Korea —  &nbsp; <em>Bachelor 
 
 <br>
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonjungin&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonjungin&count_bg=%23F392D0&title_bg=%236E6B6B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 <br>
 
