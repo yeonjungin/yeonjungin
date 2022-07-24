@@ -87,6 +87,7 @@ Yongin University, Yongin-si, Gyeonggi-do, South Korea —  &nbsp; <em>Bachelor 
 
 |Activity|Organization|Date|Note|
 |:---:|:---:|:---:|:---:|
+|삼성 청년 SW 아카데미8기 <br>(SSAFY 8)| Samsung |JUL 2022 - ||
 |Jeju Coding BaseCamp Supporters<br>(제주코딩베이스캠프 서포터즈)|Jeju Coding BaseCamp|JUL 2021 - SEP 2021||
 |Goodjob Supporters<br>(굿잡서포터즈 3기)|Yongin Univ|MAR 2021 - AUG 2021||
 |Samsung SDS Algorithm Class<br>(삼성SDS 알고리즘 특강 수료)|Samsung SDS|JUL 2021-AUG 2021||
