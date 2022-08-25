@@ -23,64 +23,27 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <br>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
-<br>
-
-<br>
-<h2 align="center">🎓 Education 🎓</h2>
-<p align="center">
-Yongin University, Yongin-si, Gyeonggi-do, South Korea —  &nbsp; <em>Bachelor of Computer Science &nbsp;   MAR  2018 - FEB  2022</em>
-</p>   
+<br>  
 
 <br>
 <h2 align="center">🙆‍♀️ Other Experience 🙆‍♀️</h2>
 <h3 align="center"> 📝Project </h3>
-<h4 align="center"><b>School Project</b></h4>
-<p align="center">
-- ERP Program in C#, 2020
+<p align="center">      
+- Who am I in Spring boot, Java, 2022
 <br>
-- Shopping Website in HTML, CSS, JS, 2019
-</p>
-<br>
-
-<h4 align="center"><b>Toy Project</b></h4>
-<p align="center">        
 - Virtual Currency bid and ask program in python, 2021
 <br>
 - Making Thumbnail image program in python, 2020
+<br>
+- ERP Program in C#, 2020
+<br>
+- Shopping Website in HTML, CSS, Java, 2019
 </p>
 
-<br>
-<h3 align="center">🏅 Awards 🏅</h3>
-
-|Awards|Organization|Date|Note|
-|:---:|:---:|:---:|:---:|
-|Scholarship Awarded|Incheon Scholarship Foundation|the second semester of 2021|---------------------------------|
-|Academic Scholarship Awarded|Yongin Univ|the first semester of 2021|---------------------------------|
-|Scholarship Awarded|S&T Scholarship Foundation|the second semester of 2020|---------------------------------|
-|Scholarship Awarded|S&T Scholarship Foundation|the first semester of 2020|---------------------------------|
-|Academic Scholarship Awarded|Yongin Univ|the first semester of 2020|---------------------------------|
-|Academic Scholarship Awarded|Yongin Univ|the second semester of 2019|---------------------------------|
-|Academic Scholarship Awarded|Yongin Univ|the first semester of 2019|---------------------------------|
-|Academic Scholarship Awarded|Yongin Univ|the second semester of 2018|---------------------------------|
-
-<br>
-<br>    
-<h3 align="center"> 📖 Certificate 📖</h3>
-
-|Certificate|Date|Organization|Note|
-|:---:|:---:|:---:|:---:|
-|Engineer Information Processing<br>(정보처리기사)|AUG 2021|한국산업인력공단|-------------------------------------|
-|TOEIC SPEAKING Level 6 (150)<br>(토익스피킹)|MAR 2021|한국TOEIC위원회|-------------------------------------|
-|Computer Specialist in Spreadsheet & Database Level-1<br>(컴퓨터활용능력 1급)|OCT 2020|대한상공회의소|-------------------------------------|
-
-<br>
 
 <br>
 <h3 align="center">🌏 Activity 🌏</h3>
@@ -98,6 +61,41 @@ Yongin University, Yongin-si, Gyeonggi-do, South Korea —  &nbsp; <em>Bachelor 
 |HANIUM ICT Mentoring<br>(한이음 멘토링)|HANIUM|MAR 2018 - NOV 2018||
 
 <br>
+
+<br>
+<h3 align="center">🏅 Awards 🏅</h3>
+
+|Awards|Organization|Date|Note|
+|:---:|:---:|:---:|:---:|
+|Scholarship Awarded|Incheon Scholarship Foundation|the second semester of 2021|---------------------------------|
+|Academic Scholarship Awarded|Yongin Univ|the first semester of 2021|---------------------------------|
+|Scholarship Awarded|S&T Scholarship Foundation|the second semester of 2020|---------------------------------|
+|Scholarship Awarded|S&T Scholarship Foundation|the first semester of 2020|---------------------------------|
+|Academic Scholarship Awarded|Yongin Univ|the first semester of 2020|---------------------------------|
+|Academic Scholarship Awarded|Yongin Univ|the second semester of 2019|---------------------------------|
+|Academic Scholarship Awarded|Yongin Univ|the first semester of 2019|---------------------------------|
+|Academic Scholarship Awarded|Yongin Univ|the second semester of 2018|---------------------------------|
+
+<br>
+
+<br>
+<h2 align="center">🎓 Education 🎓</h2>
+<p align="center">
+Yongin University, Yongin-si, Gyeonggi-do, South Korea —  &nbsp; <em>Bachelor of Computer Science &nbsp;   MAR  2018 - FEB  2022</em>
+</p> 
+
+<br>    
+<h3 align="center"> 📖 Certificate 📖</h3>
+
+|Certificate|Date|Organization|Note|
+|:---:|:---:|:---:|:---:|
+|Engineer Information Processing<br>(정보처리기사)|AUG 2021|한국산업인력공단|-------------------------------------|
+|TOEIC SPEAKING Level 6 (150)<br>(토익스피킹)|MAR 2021|한국TOEIC위원회|-------------------------------------|
+|Computer Specialist in Spreadsheet & Database Level-1<br>(컴퓨터활용능력 1급)|OCT 2020|대한상공회의소|-------------------------------------|
+
+<br>
+
+
 
 <br>
 <p align="center">
