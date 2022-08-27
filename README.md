@@ -17,6 +17,7 @@
 </p>
 <br>  
  
+ 
 <br>
 <h2 align="center">🛠 Tech Skil 🛠</h2>
 <p align="center">Techs that I've used at least once!</p>
@@ -28,6 +29,7 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 <br>  
+
 
 <br>
 <h2 align="center">🙆‍♀️ Other Experience 🙆‍♀️</h2>
@@ -43,6 +45,7 @@
 <br>
 - Shopping Website in HTML, CSS, Java, 2019
 </p>
+<br>
 
 
 <br>
@@ -59,8 +62,8 @@
 |Student Reporter<br>(장학생 기자단)|Incheon Scholarship Foundation|JUL 2019 - DEC 2019||
 |Studying Abroad (해외연수)|Incheon Scholarship Foundation|JUL 2019 - AUG 2019|<em>EAST CHINA NORMAL UNIVERSITY, Shanghai, China</em>|
 |HANIUM ICT Mentoring<br>(한이음 멘토링)|HANIUM|MAR 2018 - NOV 2018||
-
 <br>
+
 
 <br>
 <h3 align="center">🏅 Awards 🏅</h3>
@@ -75,14 +78,16 @@
 |Academic Scholarship Awarded|Yongin Univ|the second semester of 2019|---------------------------------|
 |Academic Scholarship Awarded|Yongin Univ|the first semester of 2019|---------------------------------|
 |Academic Scholarship Awarded|Yongin Univ|the second semester of 2018|---------------------------------|
-
 <br>
+
 
 <br>
 <h2 align="center">🎓 Education 🎓</h2>
 <p align="center">
 Yongin University, Yongin-si, Gyeonggi-do, South Korea —  &nbsp; <em>Bachelor of Computer Science &nbsp;   MAR  2018 - FEB  2022</em>
 </p> 
+<br>
+
 
 <br>    
 <h3 align="center"> 📖 Certificate 📖</h3>
@@ -92,15 +97,6 @@ Yongin University, Yongin-si, Gyeonggi-do, South Korea —  &nbsp; <em>Bachelor 
 |Engineer Information Processing<br>(정보처리기사)|AUG 2021|한국산업인력공단|-------------------------------------|
 |TOEIC SPEAKING Level 6 (150)<br>(토익스피킹)|MAR 2021|한국TOEIC위원회|-------------------------------------|
 |Computer Specialist in Spreadsheet & Database Level-1<br>(컴퓨터활용능력 1급)|OCT 2020|대한상공회의소|-------------------------------------|
-
-<br>
-
-
-
-<br>
-<p align="center">
-
-</p>
 <br>
 
 
